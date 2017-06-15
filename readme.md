@@ -1,6 +1,5 @@
 ## Gitdemo
 
-Some other Changes
-
+> Some other Changes
 >_Some Content_ 
 - **Extra Content**
